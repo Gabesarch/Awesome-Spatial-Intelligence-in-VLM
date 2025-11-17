@@ -21,7 +21,7 @@ We welcome contributions of excellent resources you find via Pull Request!
   <!-- - [Overview](#Overview-of-Embodied-Multimodal-LLMs) -->
   - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets--Benchmark)
-  - [Applications](#Applications)
+  - [Findings & Applications](#Applications)
 
 
 
